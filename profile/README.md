@@ -7,7 +7,7 @@
 
   # ASK-Ai-Canada
 
-  **Canadian-built Automation, AI tooling and infrastructure.**
+  **Canadian-built automation; AI tooling and infrastructure.**
 
   [![Website](https://img.shields.io/badge/Website-ask--ai.ca-2ea44f?style=flat-square)](https://ask-ai.ca)
   [![License](https://img.shields.io/badge/License-Dual%3A%20Community%20%2B%20Commercial-blue?style=flat-square)](https://github.com/ASK-Ai-Canada/ASK-Claude-Token-Optimizer/blob/main/LICENSE)
