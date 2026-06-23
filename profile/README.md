@@ -13,6 +13,7 @@
   [![License](https://img.shields.io/badge/License-Dual%3A%20Community%20%2B%20Commercial-blue?style=flat-square)](https://github.com/ASK-Ai-Canada/ASK-Claude-Token-Optimizer/blob/main/LICENSE)
   [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant%20v2.1-purple?style=flat-square)](https://github.com/ASK-Ai-Canada/.github/blob/main/CODE_OF_CONDUCT.md)
   [![Contact](https://img.shields.io/badge/Contact-support%40ask--ai.ca-EC0000?style=flat-square)](mailto:support@ask-ai.ca)
+  [![Made in Canada](https://img.shields.io/badge/Made%20in-Canada-FF0000?style=flat-square)](https://ask-ai.ca)
 
 </div>
 
@@ -34,5 +35,6 @@ ASK-Ai builds AI tooling and infrastructure in Canada, so teams get powerful, ef
 | Project | Description | Status |
 |:---|:---|:---|
 | [ASK-Claude-Token-Optimizer](https://github.com/ASK-Ai-Canada/ASK-Claude-Token-Optimizer) | The world's #1 token optimizer — reduces token consumption on the Claude Code CLI by up to 98.9%. | Active |
+
 
 
